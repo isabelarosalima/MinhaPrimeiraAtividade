@@ -1,0 +1,27 @@
+#div_01{
+    background-color: #9a0606; 
+    height: 300px; 
+    width: 350px;
+}
+#div_02{
+    background-color: #a21037;
+    height: 30%;
+    width: 30%;
+}
+#p_p{
+    background-color: #78095a;
+    color: #015e44;
+    font-size: 100px;
+    font-family: system-ui;
+    font-weight: -apple-system;
+}
+#div_04{
+    width: 50% ;
+    height: 60% ;
+    background-color: rgb(85, 8, 120);
+}
+#div_05{
+    width: 70%;
+    height: 80%;
+    background-color: rgb(92, 9, 106); 
+}
